@@ -1,4 +1,4 @@
-# Videofy: Third copy of YouTube in desktop 😂
+# Videofy
 
 > Made with Python
 
