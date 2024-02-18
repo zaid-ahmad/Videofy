@@ -10,7 +10,7 @@ In videofy, you can-
 
 ◉ Like/Dislike videos
 
-◉ Play videos (Duh)
+◉ Play videos
 
 Hey, this was a school project. So I didn't pay much attention to it. But it's good for what it does, so worth sharing 😃
 
